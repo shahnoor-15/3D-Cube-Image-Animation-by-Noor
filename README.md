@@ -53,7 +53,7 @@ MIT License – do whatever, just credit me if you clone it for your crush.
 
 ---
 
-**Made with ❤️ by Aoudumber Bade**  
+**Made with ❤️ by Shah Noor**  
 *Tag me if you remix this!*  
 
 🚀 **Star this repo if you’d code this for someone!**  
@@ -112,7 +112,7 @@ MIT License – do whatever, just credit me if you clone it for your crush.
 
 ---
 
-**Made with ❤️ by Aoudumber Bade**  
+**Made with ❤️ by shah noor**  
 *Tag me if you remix this!*  
 
 🚀 **Star this repo if you’d code this for someone!**  
@@ -161,6 +161,7 @@ Edit these files to make it yours:
 ---
 
 ## 🤝 Credits  
+Aoudumber Bade
 - Inspired by: Sleep deprivation and CSS-Tricks.  
 - Cube logic: Built with pure math (and caffeine).  
 
@@ -171,11 +172,11 @@ MIT License – do whatever, just credit me if you clone it for your crush.
 
 ---
 
-**Made with ❤️ by Aoudumber Bade**  
+**Made with ❤️ by Shah Noor**  
 *Tag me if you remix this!*  
 
 🚀 **Star this repo if you’d code this for someone!**  
-🔗 **Live Demo:** [https://3d-cube-dev.netlify.app/](https://3d-cube-dev.netlify.app/)  
+🔗 **Live Demo:** https://app.netlify.com/sites/shah-noor-15/configuration/general  
 
 ---
 
