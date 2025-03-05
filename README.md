@@ -74,7 +74,7 @@ MIT License – do whatever, just credit me if you clone it for your crush.
 ## 🛠️ Installation  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/Aoudumber-Bade/3D-Cube-Image-Animation.git
+   git clone https://github.com/shahnoor-15/3D-Cube-Image-Animation-by-Noor.git
 
 2. Open index.html in your browser.
 🎮 Usage  
