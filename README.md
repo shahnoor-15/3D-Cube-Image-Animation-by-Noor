@@ -15,7 +15,7 @@
 ## 🛠️ Installation  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/Aoudumber-Bade/3D-Cube-Image-Animation.git
+   git clone[https://shah-noor-15.netlify.app/]3D-Cube-Image-Animation.git
 
 2. Open index.html in your browser.
 🎮 Usage  
